@@ -1,6 +1,10 @@
 *
 !.gitignore
+!final
+final/*
 !final/references.bib
 !final/FinalBibliography.tex
 
-!summary/tex
+!summary
+summary/*
+!summary/summary.tex
